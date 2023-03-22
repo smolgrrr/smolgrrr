@@ -1,16 +1,65 @@
-### Hi there 👋
+Some people like to restore old classic cars, vintage electronics, etc etc in their spare time- I like to restore old HTML sites.
 
-<!--
-**smolgrrr/smolgrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PGP key: `235081289A68D370034AE9B65BEE39A82D525494`
+Please message me at smolgrrr@protonmail.com if you found a way to break my sites or steal money from me 🤨
 
-Here are some ideas to get you started:
+nostr:npub13azv2cf3kd3xdzcwqxlgcudjg7r9nzak37usnn7h374lkpvd6rcq4k8m54
+PayNym:PM8TJVwQwhnjMDW1PmNGF2EkoWjJ5t3kMji3a3UQuTG1mWt6DssxDKwqLa9an4WDAjcV99QaZc5xRsytkfHbLh6pbsmbEKA5GXVsd4qniSzAxvxYgM4v
+lightning:smolgrrr@ln.tips
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+kdTLGdONBb1RNw==
+=AnVo
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
