@@ -1,5 +1,10 @@
 Some people like to restore old classic cars, vintage electronics, etc etc in their spare time- I like to restore old HTML sites.
 
+Pirate Bay -> [Cypherpunk Bay](https://thecypherpunkbay.org/)<br>
+SatoshiDice -> [LNSatoshiDice](https://lnsatoshidice.com/)<br>
+SilkRoad -> [Honeyroad](https://honeyroad.store/)
+
+# My info
 PGP key: `235081289A68D370034AE9B65BEE39A82D525494`<br>
 Please message me at smolgrrr@protonmail.com if you found a way to break my sites or steal money from me 🤨
 
