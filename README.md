@@ -1,4 +1,5 @@
 Some people like to restore old classic cars, vintage electronics, etc etc in their spare time- I like to restore old HTML.
+FOSS and freedom tools
 
 Pirate Bay -> [Cypherpunk Bay](https://thecypherpunkbay.org/)<br>
 SatoshiDice -> [LNSatoshiDice](https://lnsatoshidice.com/)<br>
