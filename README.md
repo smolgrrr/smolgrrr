@@ -1,10 +1,10 @@
 Some people like to restore old classic cars, vintage electronics, etc etc in their spare time- I like to restore old HTML sites.
 
-PGP key: `235081289A68D370034AE9B65BEE39A82D525494`
+PGP key: `235081289A68D370034AE9B65BEE39A82D525494`<br>
 Please message me at smolgrrr@protonmail.com if you found a way to break my sites or steal money from me 🤨
 
-nostr:npub13azv2cf3kd3xdzcwqxlgcudjg7r9nzak37usnn7h374lkpvd6rcq4k8m54
-PayNym:PM8TJVwQwhnjMDW1PmNGF2EkoWjJ5t3kMji3a3UQuTG1mWt6DssxDKwqLa9an4WDAjcV99QaZc5xRsytkfHbLh6pbsmbEKA5GXVsd4qniSzAxvxYgM4v
+nostr:npub13azv2cf3kd3xdzcwqxlgcudjg7r9nzak37usnn7h374lkpvd6rcq4k8m54<br>
+PayNym:PM8TJVwQwhnjMDW1PmNGF2EkoWjJ5t3kMji3a3UQuTG1mWt6DssxDKwqLa9an4WDAjcV99QaZc5xRsytkfHbLh6pbsmbEKA5GXVsd4qniSzAxvxYgM4v<br>
 lightning:smolgrrr@ln.tips
 
 ```
