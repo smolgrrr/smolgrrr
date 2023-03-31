@@ -3,7 +3,7 @@ FOSS and freedom tools
 
 Pirate Bay -> [Cypherpunk Bay](https://thecypherpunkbay.org/)<br>
 SatoshiDice -> [LNSatoshiDice](https://lnsatoshidice.com/)<br>
-SilkRoad -> [Honeyroad](https://honeyroad.store/)
+SilkRoad -> [Honeyroad](https://honeyroad.store/)<br>
 4Chan -> [OurChan](https://ourchan.org/)
 
 # My info
