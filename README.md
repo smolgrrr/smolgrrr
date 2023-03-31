@@ -4,6 +4,7 @@ FOSS and freedom tools
 Pirate Bay -> [Cypherpunk Bay](https://thecypherpunkbay.org/)<br>
 SatoshiDice -> [LNSatoshiDice](https://lnsatoshidice.com/)<br>
 SilkRoad -> [Honeyroad](https://honeyroad.store/)
+4Chan -> [OurChan](https://ourchan.org/)
 
 # My info
 PGP key: `235081289A68D370034AE9B65BEE39A82D525494`<br>
