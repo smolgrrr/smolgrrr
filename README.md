@@ -7,7 +7,7 @@ SilkRoad -> [Honeyroad](https://honeyroad.store/)<br>
 4Chan -> [OurChan](https://ourchan.org/)
 
 # My info
-PGP key: `235081289A68D370034AE9B65BEE39A82D525494`<br>
+PGP: `235081289A68D370034AE9B65BEE39A82D525494`<br>
 Please message me at smolgrrr@protonmail.com if you found a way to break my sites or steal money from me 🤨
 
 nostr:npub13azv2cf3kd3xdzcwqxlgcudjg7r9nzak37usnn7h374lkpvd6rcq4k8m54<br>
